@@ -1,5 +1,5 @@
 # Score Keeper App
-**Udacity Course: Android Basics Nanoodegree 
+**Udacity Course: Android Basics Nanoodegree** 
 *On Jul 16,2017 *
 
 ## Project Overview
