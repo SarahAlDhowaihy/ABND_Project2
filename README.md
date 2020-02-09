@@ -1,6 +1,7 @@
 # Score Keeper App
 **Udacity Course: Android Basics Nanoodegree** 
-*On Jul 16,2017 *
+
+*On Jul 16,2017*
 
 ## Project Overview
 This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making an app that allows a user to keep track of points within a game.
